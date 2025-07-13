@@ -22,25 +22,25 @@ Foundations:
 - CNN Architectures
 
 AlexNet and Early CNN Developments:
-VGGNet and Network Depth
-InceptionNet and Multi-Scale Processing
-ResNet and Skip Connections
-EfficientNet and Network Scaling
-MobileNet and Efficient Architectures
-Practical Implementation
+- VGGNet and Network Depth
+- InceptionNet and Multi-Scale Processing
+- ResNet and Skip Connections
+- EfficientNet and Network Scaling
+- MobileNet and Efficient Architectures
+- Practical Implementation
 
 Data Handling with PyTorch:
-Data Augmentation Techniques
-Transfer Learning Strategies
-Ensemble Methods
-Regularization (Dropout, Batch Normalization)
-Training Workflow and Best Practices
-Advanced Topics
+- Data Augmentation Techniques
+- Transfer Learning Strategies
+- Ensemble Methods
+- Regularization (Dropout, Batch Normalization)
+- Training Workflow and Best Practices
+- Advanced Topics
 
 Object Detection:
-Region Proposal Networks
-YOLO and Single-Shot Detection
-Semantic Segmentation
-Instance Segmentation
-Panoptic Segmentation
-U-Net Architecture
+- Region Proposal Networks
+- YOLO and Single-Shot Detection
+- Semantic Segmentation
+- Instance Segmentation
+- Panoptic Segmentation
+- U-Net Architecture
