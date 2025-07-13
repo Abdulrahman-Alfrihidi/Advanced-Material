@@ -13,15 +13,15 @@ Develop practical skills in data handling, augmentation, and transfer learning
 Understand advanced computer vision tasks like object detection and image segmentation
 Topics Covered
 
-Foundations
 
+Foundations:
 Introduction to Computer Vision
 Image Representation and Processing
 Basic Concepts of Neural Networks
 Convolutional Neural Networks (CNNs)
 CNN Architectures
 
-AlexNet and Early CNN Developments
+AlexNet and Early CNN Developments:
 VGGNet and Network Depth
 InceptionNet and Multi-Scale Processing
 ResNet and Skip Connections
@@ -29,7 +29,7 @@ EfficientNet and Network Scaling
 MobileNet and Efficient Architectures
 Practical Implementation
 
-Data Handling with PyTorch
+Data Handling with PyTorch:
 Data Augmentation Techniques
 Transfer Learning Strategies
 Ensemble Methods
@@ -37,7 +37,7 @@ Regularization (Dropout, Batch Normalization)
 Training Workflow and Best Practices
 Advanced Topics
 
-Object Detection
+Object Detection:
 Region Proposal Networks
 YOLO and Single-Shot Detection
 Semantic Segmentation
