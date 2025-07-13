@@ -15,11 +15,11 @@ Topics Covered
 
 
 Foundations:
-Introduction to Computer Vision
-Image Representation and Processing
-Basic Concepts of Neural Networks
-Convolutional Neural Networks (CNNs)
-CNN Architectures
+- Introduction to Computer Vision
+- Image Representation and Processing
+- Basic Concepts of Neural Networks
+- Convolutional Neural Networks (CNNs)
+- CNN Architectures
 
 AlexNet and Early CNN Developments:
 VGGNet and Network Depth
