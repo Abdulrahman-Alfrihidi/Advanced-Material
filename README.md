@@ -1,4 +1,5 @@
 # Advanced-Material
+I worked as a Teaching assistant for the following course. <br>
 Program Overview
 
 The KAUST Academy Advanced Artificial Intelligence Program 2025 is designed to provide participants with an advanced understanding of AI principles, practical skills, and emerging challenges. The program will blend theoretical concepts with hands-on exercises to help students develop essential skills required in the AI field.
