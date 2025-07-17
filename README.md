@@ -5,6 +5,10 @@ Program Overview
 The KAUST Academy Advanced Artificial Intelligence Program 2025 is designed to provide participants with an advanced understanding of AI principles, practical skills, and emerging challenges. The program will blend theoretical concepts with hands-on exercises to help students develop essential skills required in the AI field.
 
 Learning Objectives
+prerequisite contant, basic ML topics:
+-Linear regression
+-Logistic regression
+-Neural networks
 
 Understand fundamental concepts of computer vision and its real-world applications
 Master image representation and processing techniques in computers
